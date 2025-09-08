@@ -1,6 +1,6 @@
-[submodule "client"]
-	path = client
-	url = https://github.com/harsha-0907/MessageBroker-Client.git
 [submodule "server"]
 	path = server
 	url = https://github.com/harsha-0907/MessageBroker-Server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/harsha-0907/MessageBroker-Client.git
